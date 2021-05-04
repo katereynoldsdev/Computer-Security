@@ -1,1 +1,2 @@
 # Computer-Security
+Practice thinking like an attacker by exploring several modern computer security attacks and defenses through hands-on programming projects. Topics include applied cryptography (encryption, authentication), web security (XSS, CSRF, SQL Injection), network security (TLS, MITM attacks), application security (shell injection, buffer overflows), and other current events and trends (government surveillance, botnets, cryptocurrencies).
